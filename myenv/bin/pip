@@ -1,4 +1,4 @@
-#!/home/blageo/projects/python/games/space_shooter/myenv/bin/python3
+#!/home/blageo/projects/python/space_shooter/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
